@@ -578,6 +578,9 @@ ul>.notion-list-item:before {
   opacity: 1;
 }
 
+.notion-collection-card {
+  background-color: #161616 !important;
+}
 .notion-collection-gallery>.notion-collection-card {
   padding-bottom: 20px!important;
   background-color: #161616 !important;

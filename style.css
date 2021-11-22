@@ -1238,7 +1238,7 @@ pre[class*="language-"] {
 
 .notion-callout.bg-gray-light {
   background: #191919 !important;
-  border:none;
+  border:none !important;
   padding: 0px !important;
 }
 .notion-callout.bg-gray-light> .notion-callout__content {

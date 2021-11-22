@@ -53,19 +53,19 @@
 
   --color-bg-gray-light: #404040!important;
   --color-bg-brown-light: #404040!important;
-  --color-pill-default: #404040;
-  --color-pill-gray: #404040;
-  --color-pill-brown: #404040;
-  --color-pill-orange: #404040;
-  --color-pill-yellow: #404040;
-  --color-pill-green: #404040;
-  --color-pill-blue: #404040;
-  --color-pill-purple: #404040;
-  --color-pill-pink: #404040;
-  --color-pill-red: #404040;
-  --color-card-bg:#1e1e1e;
+  --color-pill-default: #404040 !important;
+  --color-pill-gray: #404040 !important;
+  --color-pill-brown: #404040 !important;
+  --color-pill-orange: #404040 !important;
+  --color-pill-yellow: #404040 !important;
+  --color-pill-green: #404040 !important;
+  --color-pill-blue: #404040 !important;
+  --color-pill-purple: #404040 !important;
+  --color-pill-pink: #404040 !important;
+  --color-pill-red: #404040 !important;
+  --color-card-bg:#1e1e1e!important;
   --color-accent-bg: rgb(46, 170, 220);
-  --color-border-default: rgba(235, 236, 237, 0.8);
+  --color-border-default: rgba(58, 58, 58, 0.8);
   --color-border-dark: rgba(55, 53, 47, 0.16);
 }
 

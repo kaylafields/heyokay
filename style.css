@@ -516,6 +516,10 @@ ul>.notion-list-item:before {
   overflow: auto!important;
 }
 
+.notion-collection-card {
+  border: solid 2px #1e1e1e !important;
+}
+
 .notion-collection-card.board {
   border-radius: 10px !important;
   border: 0!important;
@@ -672,6 +676,7 @@ th {
 
 .notion-collection-card__cover {
   border:none !important;
+  
 }
 .notion-collection-card__cover.medium,
 .notion-collection-card__cover.medium>div,

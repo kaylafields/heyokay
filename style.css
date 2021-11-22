@@ -4,7 +4,7 @@
 
 :root {
 
-  --heading-font-family: 'Noto Serif', serif;
+  --heading-font-family: 'Noto Serif', serif !important;
   --color-primary: #ffffff!important;
   --cta-color-bg: #01e7cb!important;
   --cta-color-text-link: #01e7cb!important;

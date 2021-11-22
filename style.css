@@ -523,6 +523,7 @@ ul>.notion-list-item:before {
 .notion-collection-card.board {
   border-radius: 10px !important;
   border: 0!important;
+  background: #1e1e1e!important;
   transition: var(--transition)!important;
   box-shadow: 0 10px 15px -10px rgb(0 0 0 / 9%)!important;
 }
